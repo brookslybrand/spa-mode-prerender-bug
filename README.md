@@ -1,4 +1,4 @@
-Playing around with React Router v7's `ssr: false` + `prerender` and it looks like the two are incompatible with one another.
+Playing around with React Router v7's `ssr: false` + `prerender` and it looks like it's easy to break the build step subtly.
 
 Steps to reproduce:
 
